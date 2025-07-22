@@ -1,0 +1,34 @@
+name: Validate YOLOv8 Model
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install dvc
+
+    - name: Pull model from DVC
+      run: |
+        dvc pull models/best.pt
+
+    - name: Upload model artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: best.pt
+        path: models/best.pt

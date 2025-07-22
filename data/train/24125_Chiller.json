@@ -1,0 +1,416 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Nes_Milo_200ml",
+      "score": 0.9524577856063843,
+      "points": [
+        [
+          725.206640625,
+          673.587109375
+        ],
+        [
+          782.97421875,
+          673.587109375
+        ],
+        [
+          782.97421875,
+          813.737890625
+        ],
+        [
+          725.206640625,
+          813.737890625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9496746063232422,
+      "points": [
+        [
+          539.874658203125,
+          525.07626953125
+        ],
+        [
+          594.245361328125,
+          525.07626953125
+        ],
+        [
+          594.245361328125,
+          661.60029296875
+        ],
+        [
+          539.874658203125,
+          661.60029296875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NFV_SPARK_FD_APPLE_250ML",
+      "score": 0.9475993514060974,
+      "points": [
+        [
+          568.9705078125,
+          327.226708984375
+        ],
+        [
+          633.0615234375,
+          327.226708984375
+        ],
+        [
+          633.0615234375,
+          454.876806640625
+        ],
+        [
+          568.9705078125,
+          454.876806640625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9456489086151123,
+      "points": [
+        [
+          414.45126953125,
+          527.099267578125
+        ],
+        [
+          476.72685546875,
+          527.099267578125
+        ],
+        [
+          476.72685546875,
+          673.264208984375
+        ],
+        [
+          414.45126953125,
+          673.264208984375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9404401779174805,
+      "points": [
+        [
+          594.958447265625,
+          523.71591796875
+        ],
+        [
+          649.162841796875,
+          523.71591796875
+        ],
+        [
+          649.162841796875,
+          657.25244140625
+        ],
+        [
+          594.958447265625,
+          657.25244140625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Grapes_200ml",
+      "score": 0.9344645738601685,
+      "points": [
+        [
+          653.59013671875,
+          525.106787109375
+        ],
+        [
+          712.88037109375,
+          525.106787109375
+        ],
+        [
+          712.88037109375,
+          659.114892578125
+        ],
+        [
+          653.59013671875,
+          659.114892578125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Aple_200ml",
+      "score": 0.9299649000167847,
+      "points": [
+        [
+          410.10244140625,
+          677.82294921875
+        ],
+        [
+          473.04794921875,
+          677.82294921875
+        ],
+        [
+          473.04794921875,
+          822.55322265625
+        ],
+        [
+          410.10244140625,
+          822.55322265625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Guava_200ml",
+      "score": 0.9274071455001831,
+      "points": [
+        [
+          713.86259765625,
+          525.35576171875
+        ],
+        [
+          771.43388671875,
+          525.35576171875
+        ],
+        [
+          771.43388671875,
+          660.79091796875
+        ],
+        [
+          713.86259765625,
+          660.79091796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9212898015975952,
+      "points": [
+        [
+          478.72109375,
+          525.5392578125
+        ],
+        [
+          537.87685546875,
+          525.5392578125
+        ],
+        [
+          537.87685546875,
+          668.62734375
+        ],
+        [
+          478.72109375,
+          668.62734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NFV_SPARK_FD_PEACH_250ML",
+      "score": 0.9089486002922058,
+      "points": [
+        [
+          638.001416015625,
+          326.136962890625
+        ],
+        [
+          696.851904296875,
+          326.136962890625
+        ],
+        [
+          696.851904296875,
+          455.705078125
+        ],
+        [
+          638.001416015625,
+          455.705078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Peach_200ml",
+      "score": 0.9079917073249817,
+      "points": [
+        [
+          666.271484375,
+          674.50400390625
+        ],
+        [
+          723.6736328125,
+          674.50400390625
+        ],
+        [
+          723.6736328125,
+          815.84560546875
+        ],
+        [
+          666.271484375,
+          815.84560546875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_1000ml",
+      "score": 0.9005764722824097,
+      "points": [
+        [
+          222.6224609375,
+          831.67861328125
+        ],
+        [
+          320.553564453125,
+          831.67861328125
+        ],
+        [
+          320.553564453125,
+          1024.0
+        ],
+        [
+          222.6224609375,
+          1024.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Guava_1000ml",
+      "score": 0.8365805149078369,
+      "points": [
+        [
+          324.32001953125,
+          833.2662109375
+        ],
+        [
+          415.74111328125,
+          833.2662109375
+        ],
+        [
+          415.74111328125,
+          1024.0
+        ],
+        [
+          324.32001953125,
+          1024.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NFV_SPARK_FD_PEACH_250ML",
+      "score": 0.627356767654419,
+      "points": [
+        [
+          245.743017578125,
+          129.9696044921875
+        ],
+        [
+          317.323388671875,
+          129.9696044921875
+        ],
+        [
+          317.323388671875,
+          309.8430419921875
+        ],
+        [
+          245.743017578125,
+          309.8430419921875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24125_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

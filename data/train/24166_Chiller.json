@@ -1,0 +1,329 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FV_Aple_200ml",
+      "score": 0.972177267074585,
+      "points": [
+        [
+          657.4123046875,
+          238.868408203125
+        ],
+        [
+          740.4021484375,
+          238.868408203125
+        ],
+        [
+          740.4021484375,
+          433.598974609375
+        ],
+        [
+          657.4123046875,
+          433.598974609375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9539226293563843,
+      "points": [
+        [
+          499.380517578125,
+          564.78251953125
+        ],
+        [
+          580.222412109375,
+          564.78251953125
+        ],
+        [
+          580.222412109375,
+          767.30908203125
+        ],
+        [
+          499.380517578125,
+          767.30908203125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Aple_200ml",
+      "score": 0.9467574954032898,
+      "points": [
+        [
+          742.35517578125,
+          239.438037109375
+        ],
+        [
+          827.84013671875,
+          239.438037109375
+        ],
+        [
+          827.84013671875,
+          436.24453125
+        ],
+        [
+          742.35517578125,
+          436.24453125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.945487380027771,
+      "points": [
+        [
+          259.1197021484375,
+          554.85390625
+        ],
+        [
+          337.0970947265625,
+          554.85390625
+        ],
+        [
+          337.0970947265625,
+          746.598828125
+        ],
+        [
+          259.1197021484375,
+          746.598828125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9437547922134399,
+      "points": [
+        [
+          584.32607421875,
+          568.65654296875
+        ],
+        [
+          666.85986328125,
+          568.65654296875
+        ],
+        [
+          666.85986328125,
+          772.97099609375
+        ],
+        [
+          584.32607421875,
+          772.97099609375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9383583068847656,
+      "points": [
+        [
+          570.168359375,
+          238.668798828125
+        ],
+        [
+          653.19296875,
+          238.668798828125
+        ],
+        [
+          653.19296875,
+          434.987744140625
+        ],
+        [
+          570.168359375,
+          434.987744140625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9329585433006287,
+      "points": [
+        [
+          490.396875,
+          242.233056640625
+        ],
+        [
+          566.4916015625,
+          242.233056640625
+        ],
+        [
+          566.4916015625,
+          425.653662109375
+        ],
+        [
+          490.396875,
+          425.653662109375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9319159984588623,
+      "points": [
+        [
+          341.413671875,
+          558.1451171875
+        ],
+        [
+          416.6392578125,
+          558.1451171875
+        ],
+        [
+          416.6392578125,
+          753.1232421875
+        ],
+        [
+          341.413671875,
+          753.1232421875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Grapes_200ml",
+      "score": 0.9243439435958862,
+      "points": [
+        [
+          331.8650146484375,
+          246.36240234375
+        ],
+        [
+          408.9795166015625,
+          246.36240234375
+        ],
+        [
+          408.9795166015625,
+          426.44853515625
+        ],
+        [
+          331.8650146484375,
+          426.44853515625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9241458177566528,
+      "points": [
+        [
+          411.9640625,
+          245.282080078125
+        ],
+        [
+          485.40732421875,
+          245.282080078125
+        ],
+        [
+          485.40732421875,
+          426.436181640625
+        ],
+        [
+          411.9640625,
+          426.436181640625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9191408753395081,
+      "points": [
+        [
+          418.94287109375,
+          562.57744140625
+        ],
+        [
+          496.40439453125,
+          562.57744140625
+        ],
+        [
+          496.40439453125,
+          758.1205078125
+        ],
+        [
+          418.94287109375,
+          758.1205078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24166_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

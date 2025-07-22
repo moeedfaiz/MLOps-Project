@@ -1,0 +1,126 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.9414243698120117,
+      "points": [
+        [
+          532.0546875,
+          591.82236328125
+        ],
+        [
+          637.6837890625,
+          591.82236328125
+        ],
+        [
+          637.6837890625,
+          884.91826171875
+        ],
+        [
+          532.0546875,
+          884.91826171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_500ml",
+      "score": 0.9323601722717285,
+      "points": [
+        [
+          464.12265625,
+          679.16767578125
+        ],
+        [
+          529.583203125,
+          679.16767578125
+        ],
+        [
+          529.583203125,
+          879.7458984375
+        ],
+        [
+          464.12265625,
+          879.7458984375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_500ml",
+      "score": 0.9220929145812988,
+      "points": [
+        [
+          392.6553955078125,
+          697.61826171875
+        ],
+        [
+          463.58720703125,
+          697.61826171875
+        ],
+        [
+          463.58720703125,
+          883.62568359375
+        ],
+        [
+          392.6553955078125,
+          883.62568359375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.9213982820510864,
+      "points": [
+        [
+          682.427734375,
+          610.50595703125
+        ],
+        [
+          809.247265625,
+          610.50595703125
+        ],
+        [
+          809.247265625,
+          900.53310546875
+        ],
+        [
+          682.427734375,
+          900.53310546875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24811_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

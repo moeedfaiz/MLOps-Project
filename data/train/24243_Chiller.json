@@ -1,0 +1,126 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9555781483650208,
+      "points": [
+        [
+          192.354296875,
+          710.613671875
+        ],
+        [
+          257.53154296875,
+          710.613671875
+        ],
+        [
+          257.53154296875,
+          856.618359375
+        ],
+        [
+          192.354296875,
+          856.618359375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9503030776977539,
+      "points": [
+        [
+          260.825048828125,
+          709.66689453125
+        ],
+        [
+          322.667822265625,
+          709.66689453125
+        ],
+        [
+          322.667822265625,
+          851.680078125
+        ],
+        [
+          260.825048828125,
+          851.680078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.94196617603302,
+      "points": [
+        [
+          209.4258544921875,
+          551.1935546875
+        ],
+        [
+          271.4128173828125,
+          551.1935546875
+        ],
+        [
+          271.4128173828125,
+          690.870703125
+        ],
+        [
+          209.4258544921875,
+          690.870703125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9359334707260132,
+      "points": [
+        [
+          324.917529296875,
+          709.259765625
+        ],
+        [
+          385.332275390625,
+          709.259765625
+        ],
+        [
+          385.332275390625,
+          849.541015625
+        ],
+        [
+          324.917529296875,
+          849.541015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24243_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

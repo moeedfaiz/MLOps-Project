@@ -1,0 +1,271 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9496555328369141,
+      "points": [
+        [
+          276.99736328125,
+          685.69892578125
+        ],
+        [
+          353.892333984375,
+          685.69892578125
+        ],
+        [
+          353.892333984375,
+          830.18173828125
+        ],
+        [
+          276.99736328125,
+          830.18173828125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9494079351425171,
+      "points": [
+        [
+          655.235546875,
+          702.38701171875
+        ],
+        [
+          728.1763671875,
+          702.38701171875
+        ],
+        [
+          728.1763671875,
+          845.00576171875
+        ],
+        [
+          655.235546875,
+          845.00576171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9490604996681213,
+      "points": [
+        [
+          187.99132080078124,
+          681.7783203125
+        ],
+        [
+          273.33291015625,
+          681.7783203125
+        ],
+        [
+          273.33291015625,
+          827.9779296875
+        ],
+        [
+          187.99132080078124,
+          827.9779296875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9462605714797974,
+      "points": [
+        [
+          581.925634765625,
+          697.4759765625
+        ],
+        [
+          652.679833984375,
+          697.4759765625
+        ],
+        [
+          652.679833984375,
+          840.940234375
+        ],
+        [
+          581.925634765625,
+          840.940234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9431532621383667,
+      "points": [
+        [
+          434.4,
+          694.94072265625
+        ],
+        [
+          508.191015625,
+          694.94072265625
+        ],
+        [
+          508.191015625,
+          834.73740234375
+        ],
+        [
+          434.4,
+          834.73740234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.940679669380188,
+      "points": [
+        [
+          356.927099609375,
+          690.451953125
+        ],
+        [
+          432.109033203125,
+          690.451953125
+        ],
+        [
+          432.109033203125,
+          831.958984375
+        ],
+        [
+          356.927099609375,
+          831.958984375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9365134239196777,
+      "points": [
+        [
+          804.664599609375,
+          715.0033203125
+        ],
+        [
+          878.8763671875,
+          715.0033203125
+        ],
+        [
+          878.8763671875,
+          855.02353515625
+        ],
+        [
+          804.664599609375,
+          855.02353515625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.936183512210846,
+      "points": [
+        [
+          730.6072265625,
+          708.4294921875
+        ],
+        [
+          802.5896484375,
+          708.4294921875
+        ],
+        [
+          802.5896484375,
+          849.4791015625
+        ],
+        [
+          730.6072265625,
+          849.4791015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9318968057632446,
+      "points": [
+        [
+          510.38837890625,
+          694.6525390625
+        ],
+        [
+          578.71669921875,
+          694.6525390625
+        ],
+        [
+          578.71669921875,
+          837.9
+        ],
+        [
+          510.38837890625,
+          837.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24213_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

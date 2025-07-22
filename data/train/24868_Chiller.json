@@ -1,0 +1,155 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Nes_PLife_500ml",
+      "score": 0.9456812143325806,
+      "points": [
+        [
+          463.25927734375,
+          438.267822265625
+        ],
+        [
+          519.64580078125,
+          438.267822265625
+        ],
+        [
+          519.64580078125,
+          627.885302734375
+        ],
+        [
+          463.25927734375,
+          627.885302734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.8953930139541626,
+      "points": [
+        [
+          200.8626220703125,
+          334.043310546875
+        ],
+        [
+          270.5415771484375,
+          334.043310546875
+        ],
+        [
+          270.5415771484375,
+          608.199462890625
+        ],
+        [
+          200.8626220703125,
+          608.199462890625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.8866397142410278,
+      "points": [
+        [
+          342.32177734375,
+          334.184912109375
+        ],
+        [
+          412.95087890625,
+          334.184912109375
+        ],
+        [
+          412.95087890625,
+          619.752490234375
+        ],
+        [
+          342.32177734375,
+          619.752490234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_500ml",
+      "score": 0.8577294945716858,
+      "points": [
+        [
+          411.827587890625,
+          438.0875
+        ],
+        [
+          462.392822265625,
+          438.0875
+        ],
+        [
+          462.392822265625,
+          622.447265625
+        ],
+        [
+          411.827587890625,
+          622.447265625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.8551031351089478,
+      "points": [
+        [
+          272.09306640625,
+          335.400390625
+        ],
+        [
+          341.164599609375,
+          335.400390625
+        ],
+        [
+          341.164599609375,
+          615.87607421875
+        ],
+        [
+          272.09306640625,
+          615.87607421875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24868_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

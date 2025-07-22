@@ -1,0 +1,213 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9455490112304688,
+      "points": [
+        [
+          264.672900390625,
+          861.8623046875
+        ],
+        [
+          583.496630859375,
+          861.8623046875
+        ],
+        [
+          583.496630859375,
+          997.1365234375
+        ],
+        [
+          264.672900390625,
+          997.1365234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9373420476913452,
+      "points": [
+        [
+          663.265625,
+          345.121875
+        ],
+        [
+          780.830859375,
+          345.121875
+        ],
+        [
+          780.830859375,
+          602.75302734375
+        ],
+        [
+          663.265625,
+          602.75302734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9294019937515259,
+      "points": [
+        [
+          262.963818359375,
+          557.20126953125
+        ],
+        [
+          552.927734375,
+          557.20126953125
+        ],
+        [
+          552.927734375,
+          670.70556640625
+        ],
+        [
+          262.963818359375,
+          670.70556640625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9275294542312622,
+      "points": [
+        [
+          256.65673828125,
+          682.620947265625
+        ],
+        [
+          560.81259765625,
+          682.620947265625
+        ],
+        [
+          560.81259765625,
+          800.102880859375
+        ],
+        [
+          256.65673828125,
+          800.102880859375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Grapes_200ml",
+      "score": 0.9177905321121216,
+      "points": [
+        [
+          261.90615234375,
+          463.31083984375
+        ],
+        [
+          542.31259765625,
+          463.31083984375
+        ],
+        [
+          542.31259765625,
+          546.81025390625
+        ],
+        [
+          261.90615234375,
+          546.81025390625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Grapes_200ml",
+      "score": 0.9063020944595337,
+      "points": [
+        [
+          293.0880615234375,
+          369.967138671875
+        ],
+        [
+          544.51484375,
+          369.967138671875
+        ],
+        [
+          544.51484375,
+          448.676513671875
+        ],
+        [
+          293.0880615234375,
+          448.676513671875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9014214277267456,
+      "points": [
+        [
+          551.728955078125,
+          358.785546875
+        ],
+        [
+          661.249951171875,
+          358.785546875
+        ],
+        [
+          661.249951171875,
+          596.11748046875
+        ],
+        [
+          551.728955078125,
+          596.11748046875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24116_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

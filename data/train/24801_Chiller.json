@@ -1,0 +1,97 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.895574152469635,
+      "points": [
+        [
+          517.145166015625,
+          563.8046875
+        ],
+        [
+          576.349560546875,
+          563.8046875
+        ],
+        [
+          576.349560546875,
+          795.9771484375
+        ],
+        [
+          517.145166015625,
+          795.9771484375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.8735916614532471,
+      "points": [
+        [
+          576.894775390625,
+          560.173779296875
+        ],
+        [
+          641.655029296875,
+          560.173779296875
+        ],
+        [
+          641.655029296875,
+          786.059521484375
+        ],
+        [
+          576.894775390625,
+          786.059521484375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_1500ml",
+      "score": 0.8652893304824829,
+      "points": [
+        [
+          450.72744140625,
+          564.48408203125
+        ],
+        [
+          516.09462890625,
+          564.48408203125
+        ],
+        [
+          516.09462890625,
+          801.9634765625
+        ],
+        [
+          450.72744140625,
+          801.9634765625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24801_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}

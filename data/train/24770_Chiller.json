@@ -1,0 +1,300 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Nes_PLife_500ml",
+      "score": 0.955054759979248,
+      "points": [
+        [
+          680.4763671875,
+          587.6794921875
+        ],
+        [
+          732.8986328125,
+          587.6794921875
+        ],
+        [
+          732.8986328125,
+          772.72900390625
+        ],
+        [
+          680.4763671875,
+          772.72900390625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.94952392578125,
+      "points": [
+        [
+          475.055078125,
+          665.08720703125
+        ],
+        [
+          516.41640625,
+          665.08720703125
+        ],
+        [
+          516.41640625,
+          769.20205078125
+        ],
+        [
+          475.055078125,
+          769.20205078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Nes_PLife_500ml",
+      "score": 0.9397035837173462,
+      "points": [
+        [
+          733.74482421875,
+          588.486328125
+        ],
+        [
+          785.89150390625,
+          588.486328125
+        ],
+        [
+          785.89150390625,
+          773.1041015625
+        ],
+        [
+          733.74482421875,
+          773.1041015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9356170892715454,
+      "points": [
+        [
+          559.735009765625,
+          666.01376953125
+        ],
+        [
+          600.287646484375,
+          666.01376953125
+        ],
+        [
+          600.287646484375,
+          769.11123046875
+        ],
+        [
+          559.735009765625,
+          769.11123046875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.930942177772522,
+      "points": [
+        [
+          346.5755859375,
+          664.208203125
+        ],
+        [
+          388.1349609375,
+          664.208203125
+        ],
+        [
+          388.1349609375,
+          768.0025390625
+        ],
+        [
+          346.5755859375,
+          768.0025390625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9181902408599854,
+      "points": [
+        [
+          432.039453125,
+          664.71328125
+        ],
+        [
+          473.67060546875,
+          664.71328125
+        ],
+        [
+          473.67060546875,
+          768.99619140625
+        ],
+        [
+          432.039453125,
+          768.99619140625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9154021739959717,
+      "points": [
+        [
+          601.423876953125,
+          666.79677734375
+        ],
+        [
+          641.141455078125,
+          666.79677734375
+        ],
+        [
+          641.141455078125,
+          769.65615234375
+        ],
+        [
+          601.423876953125,
+          769.65615234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9113412499427795,
+      "points": [
+        [
+          518.27177734375,
+          665.0005859375
+        ],
+        [
+          559.05654296875,
+          665.0005859375
+        ],
+        [
+          559.05654296875,
+          769.790234375
+        ],
+        [
+          518.27177734375,
+          769.790234375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "FV_Chaunsa_200ml",
+      "score": 0.9052281975746155,
+      "points": [
+        [
+          389.3330810546875,
+          663.82109375
+        ],
+        [
+          431.09345703125,
+          663.82109375
+        ],
+        [
+          431.09345703125,
+          768.016796875
+        ],
+        [
+          389.3330810546875,
+          768.016796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "NesF_Mango_200ml",
+      "score": 0.9029816389083862,
+      "points": [
+        [
+          642.138134765625,
+          666.89013671875
+        ],
+        [
+          682.757958984375,
+          666.89013671875
+        ],
+        [
+          682.757958984375,
+          769.72021484375
+        ],
+        [
+          642.138134765625,
+          769.72021484375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "24770_Chiller.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024
+}
