@@ -1,10 +1,13 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "gdrive_remote"']
     url = gdrive://1f_BpkXeLRgczUfuXqn1e179GseXymm4L
 ['remote "s3remote"']
     url = s3://chiller-dvc-pipeline
     endpointurl = https://s3.eu-north-1.amazonaws.com
 ['remote "storage"']
+    url = s3://chiller-dvc-pipeline
+    endpointurl = https://s3.eu-north-1.amazonaws.com
+['remote "myremote"']
     url = s3://chiller-dvc-pipeline
     endpointurl = https://s3.eu-north-1.amazonaws.com
